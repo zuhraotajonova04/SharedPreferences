@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Хранение данных</string>
+    <string name="save">сохранить</string>
+    <string name="load">загрузить</string>
+</resources>
